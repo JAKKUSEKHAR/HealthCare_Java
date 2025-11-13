@@ -6,5 +6,8 @@ public class Staff {
 	
 		System.out.println("No Staff Bad hospital");
 	}
+	void count() {
+		System.out.println("staff count");
+	}
 }
 
